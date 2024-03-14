@@ -10,7 +10,7 @@ Use chaos Véhicules
 - [ ] Lap Number
 - [ ] Finish
 - [ ] CheckPoints
-- [ ] Reset
+- [x] Reset
 - [ ] Boost
 - [ ] Spawn d'objets
 
@@ -32,3 +32,6 @@ Autres Elements :
 - BP_DeathZone : Volume qui fait respawn la voiture qui le traverse à son dernier point de respawn (soit un checkpoint soit le début).
 On peut régler une valeur nommée KeepVelocity à vrai ou faux. A vrai, La vitesse sera concervée après le respawn, à faux elle ne sera pas gardée. 
 ![DeathZone](DeathZone.png)
+- BP_Checkpoint : En plaçant un checkpoint sur la route, cela crée un point de respawn pour les voiture. 
+Attention à placer le checkpoint à la bonne hauteur, car les voitures réaparaitront à cette hauteur et dans le sens du checkpoint.
+![Checkpoint](Checkpoint.png)
