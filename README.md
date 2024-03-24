@@ -6,12 +6,12 @@ Use chaos Véhicules
 
 ## TODOLIST ##
 
-- [ ] Cooldown
-- [ ] Lap Number
-- [ ] Finish
-- [ ] CheckPoints
+- [x] Cooldown
+- [x] Lap Number
+- [x] Finish
+- [x] CheckPoints
 - [x] Reset
-- [ ] Boost
+- [x] Boost
 - [ ] Spawn d'objets
 
 ## FONCTIONNALITES PRESENTES ##
